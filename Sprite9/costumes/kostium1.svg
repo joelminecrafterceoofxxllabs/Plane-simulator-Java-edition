@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="451.81818187236786" height="122.84947764873505" viewBox="-0.9090909361839294 -0.8812909331172705 451.81818187236786 122.84947764873505">
+  <defs>
+    <radialGradient id="grad_1" cx="0.5155" cy="0.8332999999999999" r="1.0832899999999999">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  <radialGradient id="grad_1-,0,0,0.8055555820465088,-13,-62" cx="231.975" cy="48.3592" r="316.9684" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.9987984797917306" fill="#FFFFFF" stroke="#000000" stroke-width="1.8181818723678589" d="M 25.9636 92.8773 L 423.2364 92.8773 L 423.2364 121.0591 L 25.9636 121.0591 L 25.9636 92.8773 Z "/>
+  <text id="ID0.814470128621906" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.623377 0 0 0.623377 39.1968 95.6299)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Play PHOSPHORUS version to avoid lag! link in notes -&gt;</tspan></text>
+  <text id="ID0.20947808492928743" fill="#FFFFFF" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1.87988 0 0 1.87988 57.7598 5.46036)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="0.89em">Flight Simulator 3D</tspan></text>
+  <path id="ID0.8702678265981376" fill="url(#grad_1-,0,0,0.8055555820465088,-13,-62)" stroke="none" d="M 225 0.0278 C 287.076 0.0278 343.326 3.2774 384.057 8.5272 C 424.788 13.777 450 21.027 450 29.0278 C 450 37.0286 424.788 44.2786 384.057 49.5284 C 343.326 54.7782 287.076 58.0278 225 58.0278 C 162.924 58.0278 106.674 54.7782 65.943 49.5284 C 25.212 44.2786 0 37.0286 0 29.0278 C 0 21.027 25.212 13.777 65.943 8.5272 C 106.674 3.2774 162.924 0.0278 225 0.0278 Z " stroke-width="0.9079977411222699"/>
+  <text id="ID0.20947808492928743" fill="#000000" text-anchor="start" font-family="Scratch" font-size="22" transform="matrix(1.87988 0 0 1.87988 57.9098 3.26036)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="0.89em">Flight Simulator 3D</tspan></text>
+</svg>

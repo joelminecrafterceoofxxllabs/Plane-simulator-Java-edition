@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="63.5" height="63.5" viewBox="0.25 0.25 63.5 63.5">
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <image id="ID0.5575829828158021" width="2" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAADklEQVR42mNhgAIWGAMAAH4ACYwGaSAAAAAtdEVYdFNvZnR3YXJlAGJ5LmJsb29kZHkuY3J5cHRvLmltYWdlLlBORzI0RW5jb2RlcqgGf+4AAAAASUVORK5CYII=" transform="matrix(0.5,0,0,0.5,32,32)" stroke-width="1" style="image-rendering: optimizespeed; image-rendering: pixelated;"/>
+  <path id="ID0.85344447940588" fill="none" stroke="#000000" stroke-width="2" d="M 32 1.25 C 40.484 1.25 48.171 4.696 53.738 10.262 C 59.304 15.829 62.75 23.516 62.75 32 C 62.75 40.484 59.304 48.171 53.738 53.738 C 48.171 59.304 40.484 62.75 32 62.75 C 23.516 62.75 15.829 59.304 10.262 53.738 C 4.696 48.171 1.25 40.484 1.25 32 C 1.25 23.516 4.696 15.829 10.262 10.262 C 15.829 4.696 23.516 1.25 32 1.25 Z "/>
+  <path id="ID0.7579318690113723" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M 1.5 32 L 8.75 32 "/>
+  <path id="ID0.6940982080996037" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M 62 31.75 L 55.5 31.75 "/>
+  <path id="ID0.7657303139567375" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M 32 1.25 L 32 8.75 "/>
+  <path id="ID0.6686097183264792" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" d="M 32 62.25 L 32 55.5 "/>
+</svg>
